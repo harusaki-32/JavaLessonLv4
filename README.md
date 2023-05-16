@@ -1,8 +1,7 @@
 # JavaLessonLv4
 授業課題で作成したJavaプログラム
 
-#### ソースコードは以下のリンクから参照してください
-
+#### 問題とそれに対応するソースコードは以下の通りです
 1. [メインメソッドからAメソッドを呼び出し、AメソッドからBメソッドを呼び出し、BメソッドからCメソッドを呼び出す](https://github.com/harusaki-32/JavaLessonLv4/blob/main/LessonLv4_1.java)
 2. [メインメソッドからまとめてAメソッド、Bメソッド、及びCメソッドを呼び出す](https://github.com/harusaki-32/JavaLessonLv4/blob/main/LessonLv4_2.java)
 3. [メインメソッドからAメソッド、Bメソッド、Cメソッドを呼び出し、Cメソッドは、Aメソッド、Bメソッドを呼び出すだけ](https://github.com/harusaki-32/JavaLessonLv4/blob/main/LessonLv4_3.java)
